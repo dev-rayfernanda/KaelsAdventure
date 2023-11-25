@@ -20,7 +20,7 @@ Desenvolvido por Joyce Santiago e Rayane Fernanda. 👩‍💻👩‍💻
 ### Passo 4: Executar o Jogo
 - Abra a Godot Engine.
 - No menu principal, clique em "Abrir" e selecione o arquivo do projeto do jogo que você extraiu anteriormente.
-- Pressione o botão "Executar" (ícone de "play") na parte superior da janela da Godot para iniciar o jogo
+- Pressione o botão "Executar" (ícone de "play") na parte superior da janela da Godot para iniciar o jogo.
 
 ## 🎮 Controles do Jogo
 - Setas direcionais: Mover, Pular e Agachar
